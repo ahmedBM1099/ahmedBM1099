@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ahmed Belhaj
-- 👀 I’m interested in being a fullstack developer
 - 🌱 I’m currently learning react
 - 📫 How to reach me : abmahmed1099@gmail.com
 
